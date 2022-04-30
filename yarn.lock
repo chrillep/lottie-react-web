@@ -3993,9 +3993,9 @@ lottie-api@^1.0.2:
   integrity sha512-v9I2fYYDCEIPOSWUwvaVl9rVTuMU2iRRXZXmNFiw6zzTFe8aQAQHr/Vun4Oblr+sxFIxIUdvZMZXB+NbeG/3eQ==
 
 lottie-web@^5.6.1:
-  version "5.6.10"
-  resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.6.10.tgz#9c2959df12976f49637f563dcc96db2078010b4d"
-  integrity sha512-ucTzaiBJOMm56/K7Wqjajyh7qXlonHKB3+b5fHvhSiz+jOrXt6QDNKAinI3qdw/zvvYHKzXvFMy5SgOXbOJ5ng==
+  version "5.9.3"
+  resolved "https://registry.yarnpkg.com/lottie-web/-/lottie-web-5.9.3.tgz#d84e0176d785fcc373095ad085e3ae4e6da032d6"
+  integrity sha512-QKA31Lu57SMfS09oUvuheEL+BkzjWHuzi7VkO9gSBaynK8tOMF2EwBgRdvcn3vXvX79/Y9RFlm75mjsS8je2+w==
 
 loud-rejection@^1.0.0:
   version "1.6.0"
